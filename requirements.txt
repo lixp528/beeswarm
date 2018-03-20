@@ -8,7 +8,7 @@ cssselect
 nose
 gevent>=1.0
 requests
-telnetsrv
+telnetsrv>=0.4
 paramiko
 ntplib
 pysendfile
